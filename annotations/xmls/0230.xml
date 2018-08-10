@@ -1,0 +1,26 @@
+<annotation>
+	<folder>clover_img_add</folder>
+	<filename>0230.jpg</filename>
+	<path>/Users/choejongmun/Desktop/paper/1_Clover/dataset/clover_img_add/0230.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>404</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4-clover</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>179</ymin>
+			<xmax>427</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>
